@@ -1,0 +1,23 @@
+.nav {
+  background-color: #a2dee3;
+  width: 1440px;
+  height: 30px;
+  display: inline-flex;
+  flex-grow: none;
+
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+input {
+  border-width: 3px;
+  border-color: #518ca5;
+}
+
+h1 {
+  font-size: 18pt;
+  font-weight: lighter;
+}
